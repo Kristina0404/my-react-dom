@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6fe5fcb5.css",
+    "main.js": "./static/js/main.e1930804.js",
+    "static/media/Pizza.png": "./static/media/Pizza.e428247b3d814c39446d.png",
+    "static/media/Krosh.jpg": "./static/media/Krosh.6b5f48946efaed103910.jpg",
+    "static/media/Hugo.jpg": "./static/media/Hugo.e03934a79427961cd2ca.jpg",
+    "index.html": "./index.html",
+    "main.6fe5fcb5.css.map": "./static/css/main.6fe5fcb5.css.map",
+    "main.e1930804.js.map": "./static/js/main.e1930804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe5fcb5.css",
+    "static/js/main.e1930804.js"
+  ]
+}
