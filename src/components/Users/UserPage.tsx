@@ -3,8 +3,8 @@
 // eslint-disable-next-line import/no-extraneous-dependencies
 import { Link, useParams } from 'react-router-dom';
 import { useEffect, useState } from 'react';
-import User from './types/User';
 import styles from './UserPage.module.css';
+import User from './types/User';
 
 export default function UserPage():JSX.Element {
     const { userId } = useParams();

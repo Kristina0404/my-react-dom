@@ -7,9 +7,9 @@ import Pet from '../components/Pet/Pet';
 import Pizza from '../components/Pizza/Pizza';
 import RandomActivity from '../components/RandomActivity/RandomActivity';
 import ErrorPage from '../components/ErrorPage/ErrorPage';
-import Layout from '../Layout/Layout';
-import Users from '../Users/Users';
-import User from '../Users/UserPage';
+import Layout from '../components/Layout/Layout';
+import Users from '../components/Users/Users';
+import User from '../components/Users/UserPage';
 
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 function App() {
