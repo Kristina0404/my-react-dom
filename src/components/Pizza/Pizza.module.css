@@ -1,0 +1,33 @@
+.container {
+    width: 600px;
+    height: 250px;
+    background-color: lightblue;
+    margin:0 0 0 350px;
+    
+    
+}
+#pizza {
+    display: flex;
+    justify-items: center;
+}
+.btn{
+    margin: 50px 5px 5px 5px;
+    border: none;
+    border-radius: 10px;
+   
+}
+.img {
+    width: 30px;
+    height: 30px;
+    
+}
+.box{
+    display: grid;
+    place-items: center;
+}
+#size {
+    width: 80px;
+    height: 30px;
+    
+    
+}

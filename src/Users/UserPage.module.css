@@ -1,0 +1,8 @@
+.container {
+    background-color:lightgray;
+    border: solid black 2px;
+     margin: 10px;
+}
+.text {
+    font-weight: bold;
+}

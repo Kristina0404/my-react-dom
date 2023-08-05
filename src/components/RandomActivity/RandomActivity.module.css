@@ -1,0 +1,33 @@
+.container {
+    position :relative;
+    background-color: lightgreen;
+    height: 400px;
+}
+.btn {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(182, 236, 204) ;
+    background-attachment: fixed;
+    border: none;
+    border-radius: 10px;
+    position:absolute;
+    left:42%;
+    
+
+}
+.link{
+    display: flex;
+    justify-content: center;
+}
+.active {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.info {
+    display: flex;
+    justify-content: center;
+}
